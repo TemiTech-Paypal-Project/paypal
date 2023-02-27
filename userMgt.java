@@ -1,5 +1,5 @@
 Landmark
-Simon
+Mercy
 Dominion
 Ayo
 Obi
