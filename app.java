@@ -1,6 +1,7 @@
 We support;
-java apps
-.net  applications
-NodeJS applications
-python application
-web applications
+java applications,
+.net  applications,
+NodeJS applications,
+python application,
+web applications,
+bug removed
